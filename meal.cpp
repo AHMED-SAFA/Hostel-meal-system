@@ -41,9 +41,13 @@ public:
 
     void admin()
     {
+    
         cout<<"\t\t\t\t\t"<<"  WELCOME TO YOUR HALL"<<endl;
         cout<<"\t\t\t\t\t"<<"KHAN JAHAN ALI HALL,KUET"<<endl<<endl;
-        cout<<"\t\t\t\t\t"<<"_____student panel______"<<endl<<endl;
+        cout<<"\t\t\t\t\t"<<"  --------------------"<<endl;
+        cout<<"\t\t\t\t\t"<<"     student panel"<<endl;
+        cout<<"\t\t\t\t\t"<<"  --------------------"<<endl;
+        cout<<endl;
         cout<<"\t\t\t\t\t"<<"Enter boarder  : ";
         cin>>boarder;
         cout<<"\t\t\t\t\t"<<"Enter password : ";
@@ -103,14 +107,15 @@ int main()
     s1.admin();
 
     int choice;
+    cout<<endl<<"\t\t\t\t\t"<<"  --------------------"<<endl;
+    cout <<"\t\t\t\t\t    Available Menu    " << endl;
+    cout<<"\t\t\t\t\t"<<"  --------------------"<<endl;
+    cout <<endl<<"\t\t\t\t\t1. Breakfast" << endl;
+    cout << "\t\t\t\t\t2. Lunch" << endl;
+    cout << "\t\t\t\t\t3. Dinner" << endl;
+    cout << "\t\t\t\t\t4. Exit" << endl;
 
-    cout << "\n*** Available Menu ***" << endl;
-    cout << "1. Breakfast" << endl;
-    cout << "2. Lunch" << endl;
-    cout << "3. Dinner" << endl;
-    cout << "4. Exit" << endl;
-
-    cout << "Enter your choice: ";
+    cout <<endl<< "\t\t\t\t\tEnter your choice: ";
     cin >> choice;
 
 //        switch (choice)
