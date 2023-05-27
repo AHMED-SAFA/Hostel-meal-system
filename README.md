@@ -1,9 +1,4 @@
-This consol application describes the meal system of a specific Hostel of a University.
-Here, students will go to the hostel and will choose their desired meal. It allows-
- 1.breakfast
- 2.lunch
- 3.dinner
-The prices are specific and students will select their desired item.
-Then they will get an option wheather they want to get the reciept of the meal or not.
-After that if they print the reciept, they have to show the reciept to the supervisor and get the meal.
-Otherwise, the program will start again.
+Project Name: Hostel Meal System
+Description
+The Airlines Reservation System is a comprehensive application that allows users to manage passenger details, register for flights, make payments, and generate tickets. It provides a seamless experience for users to book and manage their flight reservations efficiently. The system is designed to work both as a file-based application and a console application, providing flexibility and convenience to users.
+
