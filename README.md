@@ -25,16 +25,16 @@ After that, it records the details for the new students.
 
 OOP features used for implementation:
 
-Class
-Nested function
-Abstraction
-Encapsulation
-Inheritance
-Polymorphism
-File I/O operation
-Constructor
-Static Variable
-Many more
+Class,
+Nested function,
+Abstraction,
+Encapsulation,
+Inheritance,
+Polymorphism,
+File I/O operation,
+Constructor,
+Static Variable,
+Many more,
 
 Contact:
 
