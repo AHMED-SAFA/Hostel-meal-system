@@ -1,12 +1,12 @@
 Project name: Hostel Meal System
 
-Description: This consol application describes the meal system of a specific Hostel of a University. This cosol setup works for individual students only.
+Description: This consol application describes the meal system of a specific Hostel of a University. This consol setup works for individual students only.
 
-Here, students will go to the hostel and will choose their desired meal. It allows-
+Here, students will choose their desired meals. It allows-
  1.breakfast
  2.lunch
  3.dinner
-The prices are specific and students will select their desired item.
+The prices are specific and students will select their desired three items.
 Then they will get an option wheather they want to get the reciept of the meal or not.
 After that if they print the reciept, they have to show the reciept to the supervisor and get the meal.
 Otherwise, the program will start again.
@@ -39,10 +39,15 @@ Many more
 Contact:
 
 Name: Ahmed Nur E Safa
+
 Roll: 2007114
+
 Section: B
+
 Year: 2nd
+
 Term: 1st
+
 E-mail: safa2007114@stud.kuet.ac.bd
 
 
